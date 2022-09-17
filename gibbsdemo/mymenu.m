@@ -1,1 +1,0 @@
-../../../octave/mcmc/mymenu.m
